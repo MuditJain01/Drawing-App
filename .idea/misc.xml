@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mudit Jain/Kotlin/DrawingApp/app/src/main/res/drawable-v24/large_brush_back.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Mudit Jain/Kotlin/DrawingApp/app/src/main/res/drawable/drawing_view_layout.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Mudit Jain/Kotlin/DrawingApp/app/src/main/res/drawable/large_brush_back.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Mudit Jain/Kotlin/DrawingApp/app/src/main/res/drawable/medium_brush_back.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Mudit Jain/Kotlin/DrawingApp/app/src/main/res/drawable/small_brush_back.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Mudit Jain/Kotlin/DrawingApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Mudit Jain/Kotlin/DrawingApp/app/src/main/res/layout/brush_size_dialouge.xml" value="0.25" />
+        <entry key="..\:/Users/Mudit Jain/Kotlin/DrawingApp/app/src/main/res/layout/dialog_custom_progress.xml" value="0.1" />
+        <entry key="..\:/Users/Mudit Jain/Kotlin/DrawingApp/app/src/main/res/xml/paths.xml" value="0.24547101449275363" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
